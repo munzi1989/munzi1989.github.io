@@ -1,0 +1,20 @@
+{
+  "name": "munzi1989.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio for Colin Munzlinger",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munzi1989/munzi1989.github.io.git"
+  },
+  "author": "Colin Munzlinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munzi1989/munzi1989.github.io/issues"
+  },
+  "homepage": "https://github.com/munzi1989/munzi1989.github.io#readme"
+}
