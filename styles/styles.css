@@ -1,0 +1,21 @@
+#navbar {
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+
+
+body {
+    background: url(../images/IMG1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+.jumbotron  {
+    background-color: brown;
+    margin-bottom: 0;
+}
