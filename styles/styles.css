@@ -1,8 +1,31 @@
 #navbar {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.8);
     color: white;
 }
 
+hr.solid {
+    border-top: 2px solid #999;
+}
+
+#card1  {
+    cursor: pointer;
+}
+
+
+
+#card2 {
+    cursor: pointer;
+}
+
+.hr {
+    color: seashell;
+    size: 30rem;
+}
+
+#projectHr {
+    color: seashell;
+    size: 30rem;
+}
 
 body {
     background: url(../images/IMG1.jpg) no-repeat center center fixed; 
@@ -11,6 +34,8 @@ body {
     -o-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
+    color: seashell;
+    font-family: 'Comic Neue', cursive;
 }
 
 
@@ -19,7 +44,3 @@ body {
   height:360px;
 }
 
-.jumbotron  {
-    background-color: brown;
-    margin-bottom: 0;
-}
