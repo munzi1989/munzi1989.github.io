@@ -4,16 +4,20 @@
 }
 
 
-
 body {
     background: url(../images/IMG1.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
+
+.carousel {
+  width:640px;
+  height:360px;
+}
 
 .jumbotron  {
     background-color: brown;
