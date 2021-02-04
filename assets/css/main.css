@@ -235,6 +235,10 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.shaded {
+		border: #333 solid 1px;
+	}
+
 /* Container */
 
 	.container {
